@@ -76,9 +76,8 @@
 					<p class="animate text-p" data-ani="rollIn" data-delay="1000">Thank you for reading and I will continue to work hard! —————2018/08/08</p>
 					
 					<h1 class="yourElement">张浩浩来了！！！</h1>	
-					<div class="com">张浩浩来了！！！</div>		
-					<h1 class="yourElement">张浩浩来了！！！</h1>	
 					<div class="com">张浩浩来了！！！</div>	
+					<p class="animate text-p" data-ani="rollIn" data-delay="1000">Thank you for reading and I will continue to work hard! —————2018/08/08</p>		
 				</el-tab-pane>
 			    <el-tab-pane label="角色管理">角色管理</el-tab-pane>
 			    <el-tab-pane label="定时任务补偿">定时任务补偿</el-tab-pane>
