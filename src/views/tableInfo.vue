@@ -77,6 +77,8 @@
 					
 					<h1 class="yourElement">张浩浩来了！！！</h1>	
 					<div class="com">张浩浩来了！！！</div>		
+					<h1 class="yourElement">张浩浩来了！！！</h1>	
+					<div class="com">张浩浩来了！！！</div>	
 				</el-tab-pane>
 			    <el-tab-pane label="角色管理">角色管理</el-tab-pane>
 			    <el-tab-pane label="定时任务补偿">定时任务补偿</el-tab-pane>
